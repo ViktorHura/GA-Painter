@@ -1,0 +1,9 @@
+'organismClass': polyOrg, 'populationSize': 1024, 'eliteSize': 1, 'useTournament': True, 'cutoffSize': 200, 'tournamentSize': 24, 'mutationRate': 0.02
+0: best_fit -252.73008728027344, avg_fit -546.1724519580603, elapsed 8.8534
+5: best_fit -0.364700049161911, avg_fit -21.582357410457917, elapsed 29.7961
+10: best_fit -0.17443546652793884, avg_fit -10.143277481634868, elapsed 51.3844
+15: best_fit -0.17443546652793884, avg_fit -9.818395425769268, elapsed 70.7908
+20: best_fit -0.17158736288547516, avg_fit -8.511569858368603, elapsed 90.4251
+25: best_fit -0.17158736288547516, avg_fit -9.605958217332955, elapsed 108.5132
+30: best_fit -0.17158736288547516, avg_fit -8.991356471422478, elapsed 127.2629
+35: best_fit -0.11327970772981644, avg_fit -7.44895954864478, elapsed 146.4167

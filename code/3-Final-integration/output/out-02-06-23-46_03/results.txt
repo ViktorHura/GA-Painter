@@ -1,0 +1,4 @@
+'organismClass': polyOrg, 'populationSize': 1024, 'eliteSize': 1, 'useTournament': True, 'cutoffSize': 200, 'tournamentSize': 24, 'mutationRate': 0.02
+0: best_fit -339.0538635253906, avg_fit -545.8772702515125, elapsed 7.8618
+5: best_fit -1.9790936708450317, avg_fit -59.764595400425605, elapsed 24.6034
+10: best_fit -0.4860804080963135, avg_fit -13.972538153000642, elapsed 41.9205
